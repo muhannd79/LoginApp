@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="txt_view_splash_graph1">GreenFlag customers can\ncreate an account to access</string>
+    <string name="txt_view_splash_check1">Car health updates</string>
+    <string name="txt_view_splash_check2">Request a rescue online</string>
+    <string name="txt_view_splash_check3">Policy information</string>
+    <string name="btn_view_splash">Create an account</string>
+    <string name="txt_login_desc">Your password should have a minimum of 8\ncharacters contains at least one\nnumber, one uppercase and one lower\ncase letter. You can use special characters</string>
+</resources>
