@@ -86,7 +86,7 @@ class LoginActivity : AppCompatActivity() {
     }
 
     private fun checkIfPasswordReady() {
-        passIsReady = Regex("(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z]).{4,20}").matches(
+        passIsReady = Regex("(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z]).{8,20}").matches(
             editTxt_login_create_pass.text
         )
         if (!passIsReady) {
